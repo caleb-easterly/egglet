@@ -1,4 +1,4 @@
-# tinyNOG
+# egglet
 
 A much reduced version of the eggNOG database for testing purposes. 
 
