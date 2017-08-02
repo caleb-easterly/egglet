@@ -9,7 +9,7 @@ wd=$(pwd)
 python $path_to_emap -i $wd/test/nlim_fragment.fasta \
 	--output HMM_nlim --output_dir $wd/out \
 	--override \
-	--database $wd/data/ENOG411CB2I/ENOG411CB2I \
+	--database $wd/data/hmmdb_levels/ENOG411CB2I/ENOG411CB2I \
 	--data_dir $wd/data\
 	--no_refine\
 	--no_annot	
