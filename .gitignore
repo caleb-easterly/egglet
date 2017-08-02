@@ -2,5 +2,4 @@ out/*
 .panfs*
 *.swp
 
-data/OG_fasta/
 hmmdb_levels/thaNOG_hmm/
